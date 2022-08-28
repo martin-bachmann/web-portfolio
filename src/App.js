@@ -1,10 +1,9 @@
-import './App.css';
+import LandingPage from "./pages/LandingPage";
 
 function App() {
   return (
     <div className="App">
-      <h1>Portfolio de Martin Bachmann</h1>
-      <h2>Em desenvolvimento</h2>
+      <LandingPage />
     </div>
   );
 }
